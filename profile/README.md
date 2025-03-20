@@ -6,6 +6,8 @@ Sprunki Incredibox is a fan-adapted music creation game based on the original In
 ## Sprunki Incredibox Game Overview
 Sprunki Incredibox is a browser-based music creation game that expands upon the original Incredibox concept. Players can select characters representing various musical elements and assign sounds through a simple drag-and-drop interface. What sets Sprunki Incredibox apart is its introduction of new soundscapes and visual character designs, making it accessible to both music enthusiasts and beginners. The game requires no download and can be played directly in a web browser, making it convenient for casual play anytime, anywhere. For those looking to experience the original Sprunki game, [Sprunki Incredibox](https://sprunki-incredibox.info/) offers the authentic gameplay experience online.
 
+![Sprunki Incredibox](https://sprunkin.games/image/sprunki.webp)
+
 ## How to Play Sprunki Incredibox
 The core gameplay of Sprunki Incredibox revolves around musical creation through the following steps:
 
@@ -18,6 +20,8 @@ The core gameplay of Sprunki Incredibox revolves around musical creation through
 4. **Sharing Functionality**: Players can save and share their creations, joining the community to exchange ideas or collaborate with other players.
 
 The game's interface design is intuitive, making it suitable for music enthusiasts and beginners alike, allowing players with no musical background to participate easily. For the best experience playing Sprunki Incredibox online, [Sprunki Incredibox IO](https://sprunki-incredibox.io/) offers a smooth, user-friendly platform.
+
+![How to play sprunki incredibox](https://sprunkin.games/image/sprunki_play.webp)
 
 ## Sprunki Incredibox Features and Mods
 Sprunki Incredibox boasts several notable features:
