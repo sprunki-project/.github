@@ -1,12 +1,12 @@
 # Sprunki Incredibox: Complete Guide & Game Review
 
+![Sprunki Incredibox](https://sprunkin.games/image/sprunki.webp)
+
 ## What is Sprunki Incredibox?
 Sprunki Incredibox is a fan-adapted music creation game based on the original Incredibox developed by So Far So Good. It allows players to create unique musical compositions through an intuitive drag-and-drop interface, where they can select characters and assign different sounds to create music. The game has gained popularity for its innovative soundscapes, visual designs, and community interaction features. However, its rise to popularity has also led to controversies, including content farm exploitation and harassment of its original creator, a 16-year-old Thai player known as NyankoBfLol.
 
 ## Sprunki Incredibox Game Overview
 Sprunki Incredibox is a browser-based music creation game that expands upon the original Incredibox concept. Players can select characters representing various musical elements and assign sounds through a simple drag-and-drop interface. What sets Sprunki Incredibox apart is its introduction of new soundscapes and visual character designs, making it accessible to both music enthusiasts and beginners. The game requires no download and can be played directly in a web browser, making it convenient for casual play anytime, anywhere. For those looking to experience the original Sprunki game, [Sprunki Incredibox](https://sprunki-incredibox.info/) offers the authentic gameplay experience online.
-
-![Sprunki Incredibox](https://sprunkin.games/image/sprunki.webp)
 
 ## How to Play Sprunki Incredibox
 The core gameplay of Sprunki Incredibox revolves around musical creation through the following steps:
